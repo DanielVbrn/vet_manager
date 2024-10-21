@@ -1,10 +1,18 @@
-## Link de Acesso ao documento
-### [Documento referente ao sistema](https://docs.google.com/document/d/1b9vYRi0DKIG2BCphYtzIrefsfd6hIAjXGl3MwSpvkFs/edit?usp=sharing)
+
+## Membros da Equipe
+- **Daniel Vitor**
+- **Lays Emanuelly**
+- **Gabriel Silva**
+- **Alexandro**
 
 
 # Sistema de Gestão para Clínicas Veterinárias
 
 Sistema web para facilitar o gerenciamento completo de uma clínica veterinária, oferecendo funcionalidades que ajudam no agendamento de consultas, controle do histórico médico dos animais e gerenciamento do estoque de medicamentos.
+
+
+## Link de Acesso ao documento
+### [Documento referente ao sistema](https://docs.google.com/document/d/1b9vYRi0DKIG2BCphYtzIrefsfd6hIAjXGl3MwSpvkFs/edit?usp=sharing)
 
 ## Funcionalidades Principais
 
