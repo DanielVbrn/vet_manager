@@ -35,16 +35,4 @@ A clínica pode controlar o estoque de medicamentos e insumos utilizados. Cada r
 - **Autenticação**: JWT (JSON Web Token) para autenticação segura de usuários.
 - **Notificações**: Integração com APIs de envio de e-mails ou SMS para notificações automáticas.
 
-## Como Rodar o Projeto Localmente
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/clinica-veterinaria.git
-
-### Entre na pasta do projeto
-cd clinica-veterinaria
-
-### Instale as dependências
-npm instal
-
 
