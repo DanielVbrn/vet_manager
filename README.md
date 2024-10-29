@@ -19,7 +19,7 @@ Sistema web para facilitar o gerenciamento completo de uma clínica veterinária
 
 
 ## Funcionalidades Principais
-# Sistema Agendamento de consultas veterinárias
+## Sistema Agendamento de consultas veterinárias
 
 ## Oportunidade de Inovação
 
