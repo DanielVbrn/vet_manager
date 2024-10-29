@@ -12,7 +12,7 @@ Sistema web para facilitar o gerenciamento completo de uma clínica veterinária
 
 
 ## Link de Acesso ao documento
-### [Documento referente ao sistema](https://docs.google.com/document/d/1b9vYRi0DKIG2BCphYtzIrefsfd6hIAjXGl3MwSpvkFs/edit?usp=sharing)
+### [Documento de Briefing](https://docs.google.com/document/d/12rdyfXgGB8DdFb_cRZB2-rKhi8XPXQ7H52OI2vKvGPg/edit?usp=sharing)
 
 ## Funcionalidades Principais
 # Sistema Agendamento de consultas veterinárias
