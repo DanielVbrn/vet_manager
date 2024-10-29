@@ -16,7 +16,8 @@ Sistema web para facilitar o gerenciamento completo de uma clínica veterinária
 
 ### [Pesquisa de Mercado](https://docs.google.com/document/d/1lCCMojjquxKQT4k0D8KpUyF6PtUatqPs3key4eGE8hw/edit?usp=sharing)
 
-### ![É; não é; Faz; não faz](/e_nao_e_faz_nao_faz.jpeg)
+## É; não é; Faz; não faz
+### ![](/e_nao_e_faz_nao_faz.jpeg)
 
 
 ## Funcionalidades Principais
