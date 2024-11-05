@@ -12,7 +12,7 @@ Sistema web para facilitar o gerenciamento completo de uma clínica veterinária
 
 
 ## Link de Acesso aos documentos
-## [Documento de Briefing](https://docs.google.com/document/d/12rdyfXgGB8DdFb_cRZB2-rKhi8XPXQ7H52OI2vKvGPg/edit?usp=sharing)
+## [Documento de Briefing](https://drive.google.com/file/d/15HTNymbFcvDxRjP63Tq_z-yHdE-zTSDF/view?usp=sharing)
 
 ## [Pesquisa de Mercado](https://docs.google.com/document/d/1lCCMojjquxKQT4k0D8KpUyF6PtUatqPs3key4eGE8hw/edit?usp=sharing)
 
@@ -28,6 +28,7 @@ Sistema web para facilitar o gerenciamento completo de uma clínica veterinária
 ### Cliente
 #### ![...](/persona_2.png)
 
+* [Apresentação dos docs](https://drive.google.com/file/d/1-SdumdmHeCz0WoGGCYhUxTLh8-UKw1bK/view?usp=sharing)
 
 ## Funcionalidades Principais
 ## Sistema Agendamento de consultas veterinárias
