@@ -20,14 +20,10 @@ Sistema web para facilitar o gerenciamento completo de uma clínica veterinária
 
 ## [É, não é; Faz, não faz](https://docs.google.com/document/d/11HZyxuKUYZLy8-EMcPojEVU_y6zllag4bFJoBpWxAo4/edit?usp=sharing)
 
-## [Personas](https://docs.google.com/document/d/1I_BZkfAkG8RnxuqMaESnczGV2tJHuQ8WFV4G_h2RPtc/edit?usp=sharing)
+## [Personas - Veterinário](1.png)
+## [Personas - Cliente](2.png)
 
 ## [Caixa de Produto](https://docs.google.com/document/d/1eIuCWB19qh0fhLC4l1RXpR9ZTEJVRYDLHtW1anBa_hI/edit?usp=sharing)
-
-### Veterinário
-#### ![...](/persona_1.png)
-### Cliente
-#### ![...](/persona_2.png)
 
 
 ## Funcionalidades Principais
