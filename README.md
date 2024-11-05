@@ -29,6 +29,12 @@ Um sistema web para facilitar a conexão entre clínicas veterinárias e cliente
 ### Cliente
 #### ![...](/persona_2.png)
 
+## Mapa de empatia
+#### ![...](/modelo_de_empatia.png)
+
+## Mapa de empatia veterinário
+#### ![...](/modelo empatia -veterinario.png)
+
 * [Apresentação dos docs](https://drive.google.com/file/d/1-SdumdmHeCz0WoGGCYhUxTLh8-UKw1bK/view?usp=sharing)
 
 ## Funcionalidades Principais
