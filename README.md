@@ -22,6 +22,7 @@ Sistema web para facilitar o gerenciamento completo de uma clínica veterinária
 
 ## [Personas](https://docs.google.com/document/d/1I_BZkfAkG8RnxuqMaESnczGV2tJHuQ8WFV4G_h2RPtc/edit?usp=sharing)
 
+## [Caixa de Produto](https://docs.google.com/document/d/1eIuCWB19qh0fhLC4l1RXpR9ZTEJVRYDLHtW1anBa_hI/edit?usp=sharing)
 
 ### Veterinário
 #### ![...](/persona_1.png)
