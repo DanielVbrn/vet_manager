@@ -8,7 +8,7 @@
 
 # Sistema de Agendamento para Clínicas Veterinárias
 
-Sistema web para facilitar o gerenciamento completo de uma clínica veterinária, oferecendo funcionalidades como ajuda no agendamento de consultas, controle do histórico médico dos animais, localização de clínicas disponíveis, etc.
+Um sistema web para facilitar a conexão entre clínicas veterinárias e clientes, otimizando o gerenciamento de consultas, histórico médico dos animais, localizaçao dos pontos e outros serviços.
 
 
 ## Link de Acesso aos documentos
