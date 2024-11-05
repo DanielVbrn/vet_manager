@@ -12,12 +12,21 @@ Sistema web para facilitar o gerenciamento completo de uma clínica veterinária
 
 
 ## Link de Acesso aos documentos
-### [Documento de Briefing](https://docs.google.com/document/d/12rdyfXgGB8DdFb_cRZB2-rKhi8XPXQ7H52OI2vKvGPg/edit?usp=sharing)
+## [Documento de Briefing](https://docs.google.com/document/d/12rdyfXgGB8DdFb_cRZB2-rKhi8XPXQ7H52OI2vKvGPg/edit?usp=sharing)
 
-### [Pesquisa de Mercado](https://docs.google.com/document/d/1lCCMojjquxKQT4k0D8KpUyF6PtUatqPs3key4eGE8hw/edit?usp=sharing)
+## [Pesquisa de Mercado](https://docs.google.com/document/d/1lCCMojjquxKQT4k0D8KpUyF6PtUatqPs3key4eGE8hw/edit?usp=sharing)
 
-## É; não é; Faz; não faz
-### ![](/e_nao_e_faz_nao_faz.jpeg)
+## [Visão de Produto](https://docs.google.com/document/d/1gh3GnVZcuYzbSBvyWBlQW6zibxuJ-QOpZK-WQuv2bdY/edit?usp=sharing)
+
+## [É, não é; Faz, não faz](https://docs.google.com/document/d/11HZyxuKUYZLy8-EMcPojEVU_y6zllag4bFJoBpWxAo4/edit?usp=sharing)
+
+## [Personas](https://docs.google.com/document/d/1I_BZkfAkG8RnxuqMaESnczGV2tJHuQ8WFV4G_h2RPtc/edit?usp=sharing)
+
+
+### Veterinário
+#### ![...](/persona_1.png)
+### Cliente
+#### ![...](/persona_2.png)
 
 
 ## Funcionalidades Principais
