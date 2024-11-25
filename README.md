@@ -1,9 +1,9 @@
 
 ## Membros da Equipe
-- **Daniel Vitor**
-- **Lays Emanuelly**
-- **Gabriel Silva**
-- **Alexandro**
+- [Daniel Vitor](https://github.com/DanielVbrn)
+- [Lays Emanuelly](https://github.com/Luna0812y)
+- [Gabriel Silva](https://github.com/gabrielsilva18)
+- [Alexandro](https://github.com/alexsousadev)
 
 
 # Sistema de Agendamento para Clínicas Veterinárias
@@ -66,3 +66,24 @@ Cada animal cadastrado possui um histórico de atendimentos digital, atualizado 
 - **Notificações**: Integração com APIs de envio de e-mails ou SMS para notificações automáticas.
 
 
+## Feedback para grupo Platinha
+
+**Quais aspectos do trabalho mais se destacaram?**
+- A clareza na definição do público-alvo, a proposta inclusiva e o foco em simplicidade e acessibilidade. A Matriz "É / Não É / Faz / Não Faz" foi especialmente bem estruturada e reflete bem os limites do projeto.
+
+**Houve algum artefato especialmente bem elaborado ou criativo?**
+- A "Caixa do Produto" destacou-se pela apresentação clara dos benefícios e funcionalidades. O slogan foi criativo e reforça a conexão com a natureza.
+
+**O que poderia ser ajustado para melhorar a clareza, organização ou qualidade dos artefatos?**
+- Detalhar melhor os aspectos técnicos, como ferramentas ou tecnologias que serão usadas. Além disso, incluir protótipos visuais ou wireframes para melhorar a comunicação do projeto.
+
+**Algum ponto ficou confuso ou faltando informações relevantes?**
+- Faltaram exemplos práticos de uso e explicações mais aprofundadas sobre como o reconhecimento de plantas será implementado. O diferencial em relação aos concorrentes também poderia ser mais explorado.
+
+**Os artefatos estão consistentes entre si?**
+- Sim, há consistência nos objetivos e no público-alvo, com todos os documentos reforçando a proposta de um sistema simples e acessível.
+
+**O que pode ser feito para tornar o trabalho ainda melhor?**
+- Incluir personas para ilustrar o público-alvo.
+Detalhar o uso de tecnologias, como visão computacional ou machine learning.
+Desenvolver wireframes ou protótipos.
