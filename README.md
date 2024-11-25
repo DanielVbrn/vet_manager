@@ -18,15 +18,19 @@ Um sistema web para facilitar a conexão entre clínicas veterinárias e cliente
 
 ## [Visão de Produto](https://docs.google.com/document/d/1gh3GnVZcuYzbSBvyWBlQW6zibxuJ-QOpZK-WQuv2bdY/edit?usp=sharing)
 
-## [É, não é; Faz, não faz](e_nao_e_faz_nao_faz.jpeg)
-
-## [Personas - Veterinário](persona_1.png)
-## [Personas - Cliente](persona_2.png)
-
-
 ## [Caixa de Produto](https://drive.google.com/file/d/1yxuDkThRMO4hvplmUB8m3kB-naMFU5Xk/view?usp=drivesdk)
 
-## [Mapa de Empatia](modelo_de_empatia.png)
+## É, não é; Faz, não faz
+### ![...](./e_nao_e_faz_nao_faz.jpeg)
+
+## Personas - Veterinário
+### ![...](persona_1.png)
+
+## [Personas - Cliente]
+### ![...](persona_2.png)
+
+
+
 
 ## Mapa de empatia
 #### ![...](/modelo_de_empatia.png)
