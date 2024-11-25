@@ -8,11 +8,11 @@
 
 # Sistema de Agendamento para Clínicas Veterinárias
 
-Sistema web para facilitar o gerenciamento completo de uma clínica veterinária, oferecendo funcionalidades como ajuda no agendamento de consultas, controle do histórico médico dos animais, localização de clínicas disponíveis, etc.
+Um sistema web para facilitar a conexão entre clínicas veterinárias e clientes, otimizando o gerenciamento de consultas, histórico médico dos animais, localizaçao dos pontos e outros serviços.
 
 
 ## Link de Acesso aos documentos
-## [Documento de Briefing](https://docs.google.com/document/d/12rdyfXgGB8DdFb_cRZB2-rKhi8XPXQ7H52OI2vKvGPg/edit?usp=sharing)
+## [Documento de Briefing](https://drive.google.com/file/d/15HTNymbFcvDxRjP63Tq_z-yHdE-zTSDF/view?usp=sharing)
 
 ## [Pesquisa de Mercado](https://docs.google.com/document/d/1lCCMojjquxKQT4k0D8KpUyF6PtUatqPs3key4eGE8hw/edit?usp=sharing)
 
@@ -23,10 +23,18 @@ Sistema web para facilitar o gerenciamento completo de uma clínica veterinária
 ## [Personas - Veterinário](1.png)
 ## [Personas - Cliente](2.png)
 
-## [Caixa de Produto](https://docs.google.com/document/d/1eIuCWB19qh0fhLC4l1RXpR9ZTEJVRYDLHtW1anBa_hI/edit?usp=sharing)
+
+## [Caixa de Produto](https://drive.google.com/file/d/1yxuDkThRMO4hvplmUB8m3kB-naMFU5Xk/view?usp=drivesdk)
 
 ## [Mapa de Empatia](modelo_de_empatia.png)
 
+## Mapa de empatia
+#### ![...](/modelo_de_empatia.png)
+
+## Mapa de empatia veterinário
+#### ![...](/modelo_empatia_veterinario.png)
+
+* [Apresentação dos docs](https://drive.google.com/file/d/1-SdumdmHeCz0WoGGCYhUxTLh8-UKw1bK/view?usp=sharing)
 
 ## Funcionalidades Principais
 ## Sistema Agendamento de consultas veterinárias
