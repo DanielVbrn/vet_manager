@@ -20,7 +20,6 @@ Um sistema web para facilitar a conexão entre clínicas veterinárias e cliente
 
 ## [Caixa de Produto](https://drive.google.com/file/d/1yxuDkThRMO4hvplmUB8m3kB-naMFU5Xk/view?usp=drivesdk)
 
-## [Flat Backlog](https://docs.google.com/spreadsheets/d/1rVyVykaWzLVxYhX7EuYU2xlfCrwZKKaB95fryFuRnaw/edit?usp=sharing)
 
 ## É, não é; Faz, não faz
 ### ![...](./e_nao_e_faz_nao_faz.jpeg)
@@ -39,6 +38,8 @@ Um sistema web para facilitar a conexão entre clínicas veterinárias e cliente
 
 ## Mapa de empatia veterinário
 #### ![...](/modelo_empatia_veterinario.png)
+
+## [Flat Backlog](https://docs.google.com/spreadsheets/d/1rVyVykaWzLVxYhX7EuYU2xlfCrwZKKaB95fryFuRnaw/edit?usp=sharing)
 
 * [Apresentação dos docs](https://drive.google.com/file/d/1-SdumdmHeCz0WoGGCYhUxTLh8-UKw1bK/view?usp=sharing)
 
