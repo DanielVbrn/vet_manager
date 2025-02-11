@@ -10,9 +10,12 @@
 
 Um sistema web para facilitar a conexão entre clínicas veterinárias e clientes, otimizando o gerenciamento de consultas, histórico médico dos animais, localizaçao dos pontos e outros serviços.
 
+## [Primeira Sprint VetManagerApp](https://github.com/alexsousadev/vetmanager)
 ## [Review primeira Sprint ](vetmanager.pdf)
 
-## [Primeira Sprint VetManagerApp](https://github.com/alexsousadev/vetmanager)
+## [Segunda Sprint](https://github.com/Luna0812y/vet_manager_app)
+## Link do Vídeo Segunda Sprint (https://drive.google.com/drive/folders/1GZ8rwABeFPZo1VcLwlHmuJTKNOmLirEW?usp=drive_link)
+## [Link da API](https://github.com/alexsousadev/vetmanager)
 
 
 ## [Wire frame Vet Manager Mobile](VetManagerApp.png)
